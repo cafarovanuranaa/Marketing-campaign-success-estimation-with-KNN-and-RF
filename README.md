@@ -1,4 +1,4 @@
-Marketing Campaign Succes Estimation Project – Random Forest & KNN
+## Marketing Campaign Succes Estimation Project – Random Forest & KNN
 
 This project develops predictive models to estimate customer responses to marketing campaigns. The goal is to classify whether a customer will respond positively (result = 0) or not (result = 1) using demographic and financial data.
 
